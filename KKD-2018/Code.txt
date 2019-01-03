@@ -1,0 +1,37 @@
+using.lib
+int function sum (int a1, int a2)
+{
+declare int q;
+q = a1 + a2;
+return q;
+}
+int function ppp (int a1, int a2)
+{
+declare int q;
+q = a1 * a2;
+return q;
+}
+string function asq()
+{
+declare string g;
+write> g;
+return g;
+}
+main
+{
+declare string str;
+write> str;
+print> str;
+declare int a = 6/8;
+print> a;
+declare int f = 5+doub(2)+(7);
+print> f;
+declare int b;
+write> b;
+declare int c = a;
+print> c;
+print> sqr(a);
+declare int prim = sum(a, b);
+print> prim;
+print> ppp(a, b)
+}

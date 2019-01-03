@@ -1,0 +1,3 @@
+﻿  MFST.cpp
+e:\kirill\code\kp0000\kkd-2018\kkd-2018\mfst.cpp(241): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  KKD-2018.vcxproj -> E:\Kirill\Code\KP0000\KKD-2018\Debug\KKD-2018.exe

@@ -1,0 +1,9 @@
+E:\Kirill\Code\KP0000\KKD-2018\GenerationCode\bin\Debug\GenerationCode.exe.config
+E:\Kirill\Code\KP0000\KKD-2018\GenerationCode\bin\Debug\GenerationCode.exe
+E:\Kirill\Code\KP0000\KKD-2018\GenerationCode\bin\Debug\GenerationCode.pdb
+E:\Kirill\Code\KP0000\KKD-2018\GenerationCode\obj\Debug\GenerationCode.csprojAssemblyReference.cache
+E:\Kirill\Code\KP0000\KKD-2018\GenerationCode\obj\Debug\GenerationCode.csproj.CoreCompileInputs.cache
+E:\Kirill\Code\KP0000\KKD-2018\GenerationCode\obj\Debug\GenerationCode.exe
+E:\Kirill\Code\KP0000\KKD-2018\GenerationCode\obj\Debug\GenerationCode.pdb
+E:\Kirill\Code\KP0000\KKD-2018\GenerationCode\obj\Debug\GenerationCode.Properties.Resources.resources
+E:\Kirill\Code\KP0000\KKD-2018\GenerationCode\obj\Debug\GenerationCode.csproj.GenerateResource.cache
